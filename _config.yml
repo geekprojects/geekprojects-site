@@ -1,0 +1,10 @@
+title: GeekProjects.com
+
+# for a clean URL
+permalink: :slug
+
+social:
+  github: DrFlibble
+
+sass:
+    sass_dir: _sass
