@@ -34,4 +34,4 @@ jobs:
         port: ${{ secrets.PORT }}
         key: ${{ secrets.KEY }}
         source: "_site"
-        target: ${{ secrets.KEY }}
+        target: ${{ secrets.TARGET }}
