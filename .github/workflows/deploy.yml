@@ -33,7 +33,7 @@ jobs:
         username: ${{ secrets.USERNAME }}
         port: ${{ secrets.PORT }}
         key: ${{ secrets.KEY }}
-        source: "_site"
+        source: "_site/*"
         target: ${{ secrets.TARGET }}
         
 
